@@ -1,2 +1,2 @@
-# projeto-verificar-email
- Autenticação simples com verificação de email usando Nodemailer
+# projeto-getapet
+ Projeto feito usando React e Node. O objetivo do site é ser uma rede social sobre pets.
